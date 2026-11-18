@@ -14,7 +14,7 @@ body {
     width: 500px;
     height: 195px;
     margin: 60px auto 0 auto;
-    padding: 50px; 
+    padding: 50px;
     background-color: darkslateblue;
     color: white;
     border: solid 4px white;
@@ -57,7 +57,7 @@ h3 {
     border-radius: 5px;
 }
 
-.btn-div{
+.btn-div {
     display: flex;
     gap: 10px;
 }
